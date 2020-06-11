@@ -1,0 +1,2 @@
+model_checkpoint_path: "my_mnist_model_5_to_9_no_frozen"
+all_model_checkpoint_paths: "my_mnist_model_5_to_9_no_frozen"
