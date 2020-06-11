@@ -1,4 +1,4 @@
-# Building my own Deep Neural Network right from Scracth
+# Building my own Deep Neural Network right from Scratch
 
 #### Summary:
 - Implemented `forward and back propagation` from scratch
