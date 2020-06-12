@@ -1,4 +1,4 @@
-# IMDB Movie Reviews Dataset
+# IMDB Movie Reviews
 ## Best case accuracy: 97.91% Train Accuracy and 86.43% Validation Accuracy
 
 In this model, we will predict the sentiment of movie reviews as either positive or negative.
