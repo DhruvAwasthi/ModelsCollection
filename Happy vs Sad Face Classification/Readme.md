@@ -12,5 +12,4 @@ The dataset contains 80 images of which 40 are happy and 40 are sad faces.
 - Used three convolutional layers.
 
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+**Suggestions are always welcome, thank you!**

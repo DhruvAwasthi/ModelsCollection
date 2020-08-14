@@ -16,5 +16,4 @@
 - Saving and restoring from `checkpoints`.
 
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+**Suggestions are always welcome, thank you!**

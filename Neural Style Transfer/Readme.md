@@ -20,5 +20,5 @@ We will build the Neural Style Transfer (NST) algorithm in three steps:
 - Build the style cost function
 - Put it together.
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

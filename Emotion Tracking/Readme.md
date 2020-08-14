@@ -14,5 +14,6 @@ The dataset contains pictures of some volunteers in a nearby neighborhood. The d
 - It is a binary classification problem
 - Used `AdamOptimizer` for model optimization
 - Used `binary_crossentropy` loss
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+
+**Suggestions are always welcome, thank you!**

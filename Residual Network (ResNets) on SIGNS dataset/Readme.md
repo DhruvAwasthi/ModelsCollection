@@ -19,5 +19,5 @@ In recent years, neural networks have become deeper, with state-of-the-art netwo
 
 We are now going to solve this problem by building a Residual Network!
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

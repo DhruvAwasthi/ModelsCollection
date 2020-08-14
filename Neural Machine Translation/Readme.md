@@ -14,5 +14,4 @@ In this model:
 * We will have the network learn to output dates in the common machine-readable format YYYY-MM-DD.
 
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+**Suggestions are always welcome, thank you!**

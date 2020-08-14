@@ -7,5 +7,5 @@
 - Used `gradient descent` optimization method
 - Tuned hidden layer sized.
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

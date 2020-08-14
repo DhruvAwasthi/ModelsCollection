@@ -9,5 +9,5 @@ Fashion-MNIST is a dataset of Zalando's article images consisting of a training 
 - Used `AdamOptimizer` for model optimization
 - Used `sparse_categorical_croosentropy` for calculating the loss.
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

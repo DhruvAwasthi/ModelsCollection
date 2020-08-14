@@ -12,5 +12,4 @@ We will do this by three ways:
 - Using `Gated Recurrent Unit (GRU)` (100% train accuracy and 81.29% validation accuracy).
 
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+**Suggestions are always welcome, thank you!**

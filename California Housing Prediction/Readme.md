@@ -42,5 +42,5 @@ The grid search approach is fine when you are exploring the relatively few combi
 
 **Tip:** Another way to fine-tune your model is to try to combine the models that perform best. The group (or "ensemble") will often perform better than the best individual model (just like Random Forests perform better than the best individual Decision Trees they rely on), especially if the individual models make very different types of errors.
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

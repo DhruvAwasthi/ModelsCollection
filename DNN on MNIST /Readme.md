@@ -10,5 +10,4 @@
 - Tried `Transfer Learning` in later part to explore more about it and it yields 90.24% accuray with good hyperparameter tuning.
 
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+**Suggestions are always welcome, thank you!**

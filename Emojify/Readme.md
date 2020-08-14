@@ -27,5 +27,5 @@ The emojifier can automatically turn this into:
       * Training a model to derive the embeddings from scratch.
       * Using a pretrained embedding
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

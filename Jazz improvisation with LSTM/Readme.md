@@ -13,5 +13,4 @@ You can informally think of each "value" as a note, which comprises a pitch and 
 * Our music generation system will use 78 unique values.
 
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+**Suggestions are always welcome, thank you!**

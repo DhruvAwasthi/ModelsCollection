@@ -14,5 +14,5 @@
 # Writing like Shakespeare
 A similar (but more complicated) task is to generate Shakespeare poems. Instead of learning from a dataset of Dinosaur names we can use a collection of Shakespearian poems. Using LSTM cells, we can learn longer term dependencies that span many characters in the text--e.g., where a character appearing somewhere a sequence can influence what should be a different character much much later in the sequence. These long term dependencies were less important with dinosaur names, since the names were quite short.
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

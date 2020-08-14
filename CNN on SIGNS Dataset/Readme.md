@@ -9,5 +9,5 @@ SIGNS dataset is a collection of 6 signs representing numbers from 0 to 5. It co
 - Used various techniques to best fit the model such as `random mini-batches`.
 - Used `AdamOptimizer` for model optimization.
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

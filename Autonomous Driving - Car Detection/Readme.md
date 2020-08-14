@@ -9,5 +9,5 @@
 - Used object detection on a car detection dataset
 - Dealt with bounding boxes
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+
+**Suggestions are always welcome, thank you!**

@@ -17,5 +17,4 @@ In short: The training set is the data that is used to tell the neural network m
 - Visualize intermediate representations.
 
 
-##### Suggestions are always welcome!
-##### Thank you and keep supporting!
+**Suggestions are always welcome, thank you!**
