@@ -1,4 +1,4 @@
-# Residual Netwroks (ResNets) on SIGNS dataset
+# Residual Networks (ResNets) on SIGNS dataset
 ## Best case Acuracy: 86.67% test accuracy
 
 In theory, very deep networks can represent very complex functions; but in practice, they are hard to train. Residual Networks (ResNets) allow you to train much deeper networks than were previously practically feasible.
